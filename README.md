@@ -1,6 +1,6 @@
 # health-os
 
-![health-os](assets/banner.png)
+![health-os](assets/banner.png?v=3)
 
 An AI-run system for getting in shape — the setup I built to lose 5 kg of fat
 without losing muscle before my wedding, with the thinking handed off to an AI so
@@ -15,7 +15,7 @@ No coach. No app subscription. A watch, a chatbot, and one body scan.
 
 ## The idea
 
-![The health-os loop](assets/system-loop.png)
+![The health-os loop](assets/system-loop.png?v=3)
 
 Four moving parts, each doing the one thing it's best at:
 
