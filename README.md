@@ -1,5 +1,7 @@
 # health-os
 
+![health-os](assets/banner.png)
+
 An AI-run system for getting in shape — the setup I built to lose 5 kg of fat
 without losing muscle before my wedding, with the thinking handed off to an AI so
 I just show up and lift.
