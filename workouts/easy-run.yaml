@@ -1,0 +1,13 @@
+name: Easy Run Z2
+sport: running
+description: Conversational-pace run. The goal is calories and recovery, not speed.
+steps:
+  - warmup: 5:00
+    note: Brisk walk into a very easy jog
+
+  - run: 25:00
+    hr_zone: 2
+    note: Should feel easy - slow down if breathing gets heavy
+
+  - cooldown: 5:00
+    note: Walk it off

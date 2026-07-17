@@ -1,0 +1,25 @@
+# secrets & credentials — never commit
+.env
+*.env
+!.env.example
+~/.garminconnect
+garmin_tokens.json
+*cookies*.txt
+
+# personal data
+data/
+*.sqlite
+*.sqlite-*
+photos/
+scans/
+*.pdf
+
+# python / node
+.venv/
+__pycache__/
+*.pyc
+uv.lock
+node_modules/
+
+# os
+.DS_Store

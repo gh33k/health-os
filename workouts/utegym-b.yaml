@@ -1,0 +1,42 @@
+name: Utegym B
+sport: strength
+description: Full body, pull day. Pick weights you could do 2 more reps with.
+steps:
+  - warmup: 5:00
+    note: Easy jog + shoulder circles, one light set of pulldowns
+
+  - exercise: PULL_UP/PULL_UP
+    sets: 4
+    reps: 5
+    rest: 2:30
+    note: Big Rig. Jump + slow lower if you can't get 5 strict
+
+  - exercise: BENCH_PRESS/INCLINE_SMITH_MACHINE_BENCH_PRESS
+    sets: 3
+    reps: 10
+    rest: 2:00
+    note: Vinopenkkipunnerrus
+
+  - exercise: DEADLIFT/TRAP_BAR_DEADLIFT
+    sets: 3
+    reps: 10
+    rest: 2:30
+    note: Multi Lift. Flat back, push through heels
+
+  - exercise: PULL_UP/LAT_PULLDOWN
+    sets: 2
+    reps: 12
+    rest: 1:15
+    note: Ylavetolaite. Narrow/neutral grip, pull shoulder blades DOWN first, full stretch at top
+
+  - exercise: TRICEPS_EXTENSION/CABLE_OVERHEAD_TRICEPS_EXTENSION
+    sets: 2
+    reps: 12
+    rest: 1:15
+    note: Face away from Ylavetolaite, press handle overhead; fallback skull-crusher style on a low bar
+
+  - exercise: PLANK/PLANK
+    sets: 3
+    time: 40s
+    rest: 45s
+    note: Squeeze glutes, don't let hips sag

@@ -1,0 +1,42 @@
+name: Utegym C
+sport: strength
+description: Full body, legs day. Pick weights you could do 2 more reps with.
+steps:
+  - warmup: 5:00
+    note: Easy jog + bodyweight squats and lunges, one light set on squat machine
+
+  - exercise: SQUAT/SQUAT
+    sets: 4
+    reps: 12
+    rest: 2:30
+    note: Jalkakyykky. Full depth, add weight when 12 feels easy
+
+  - exercise: TRICEPS_EXTENSION/BODY_WEIGHT_DIP
+    sets: 3
+    reps: 6
+    rest: 2:30
+    note: Big Rig dip bars; bench dips if full dips aren't there yet
+
+  - exercise: PULL_UP/CHIN_UP
+    sets: 3
+    reps: 6
+    rest: 2:30
+    note: Underhand grip; jump + slow lower to keep quality
+
+  - exercise: CURL/CABLE_BICEPS_CURL
+    sets: 2
+    reps: 12
+    rest: 1:00
+    note: Hauislaite
+
+  - exercise: CALF_RAISE/STANDING_CALF_RAISE
+    sets: 3
+    reps: 15
+    rest: 45s
+    note: Full stretch at the bottom, pause at the top
+
+  - exercise: SIT_UP/SIT_UP
+    sets: 3
+    reps: 12
+    rest: 45s
+    note: Saadettava vatsapenkki (ab bench)

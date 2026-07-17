@@ -1,0 +1,36 @@
+name: Utegym A
+sport: strength
+description: Full body, press day. Pick weights you could do 2 more reps with.
+steps:
+  - warmup: 5:00
+    note: Easy jog + arm circles, one light set on chest press and row
+
+  - exercise: BENCH_PRESS/SMITH_MACHINE_BENCH_PRESS
+    sets: 3
+    reps: 10
+    rest: 2:00
+    note: Penkkipunnerrus. Add weight when 10 feels easy
+
+  - exercise: ROW/SEATED_CABLE_ROW
+    sets: 3
+    reps: 10
+    rest: 2:00
+    note: Soutulaite. Pull to belly, squeeze shoulder blades
+
+  - exercise: SQUAT/LEG_PRESS
+    sets: 3
+    reps: 12
+    rest: 2:00
+    note: Jalkaprassi. Full depth, controlled down
+
+  - exercise: SHOULDER_PRESS/SMITH_MACHINE_OVERHEAD_PRESS
+    sets: 2
+    reps: 10
+    rest: 1:15
+    note: Etupunnerrus
+
+  - exercise: LEG_RAISE/HANGING_KNEE_RAISE
+    sets: 3
+    reps: 10
+    rest: 1:00
+    note: Big Rig pull-up bar. Slow and controlled, no swinging

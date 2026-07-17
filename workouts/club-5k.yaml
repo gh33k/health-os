@@ -1,0 +1,12 @@
+name: Club 5K
+sport: running
+description: Founders run club, Saturdays 10:00. Social pace - replaces the Sunday run.
+steps:
+  - warmup: 5:00
+    note: Easy jog before the group sets off
+
+  - run: 5km
+    note: Run with the group - keep it conversational
+
+  - cooldown: 5:00
+    note: Walk it off, chat
