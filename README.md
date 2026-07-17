@@ -101,6 +101,12 @@ overload, protein 1.6–2.2 g/kg on a cut). None of this is medical advice —
 it's what worked for one healthy adult. Talk to a doctor before a big diet or
 training change, especially if you have any health conditions.
 
+## Credits & disclaimer
+
+- Talks to Garmin Connect via [python-garminconnect](https://github.com/cyberjunky/python-garminconnect) by Ron Klinkien (MIT license).
+- `gwk/exercises.json` is Garmin's own exercise taxonomy, sourced from Garmin Connect and included so the watch shows the correct exercise animations and rep counts. Garmin® and Garmin Connect™ are trademarks of Garmin Ltd.
+- This is an unofficial hobby project — **not affiliated with, endorsed by, or supported by Garmin.** It relies on an unofficial API that Garmin may change or block at any time. Use at your own risk, and don't do anything with it that violates Garmin's terms of service.
+
 ## License
 
 MIT — do whatever you want with it. If it helps you, that's the whole point.
