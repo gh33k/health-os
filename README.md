@@ -15,6 +15,8 @@ No coach. No app subscription. A watch, a chatbot, and one body scan.
 
 ## The idea
 
+![The health-os loop](assets/system-loop.png)
+
 Four moving parts, each doing the one thing it's best at:
 
 | Part | Job | Tool |
